@@ -1,5 +1,4 @@
-// 컴퓨터프로그래밍I COSE101 (01) C언어 프로젝트 과제
-// 알렉스상준김 (2018250038)
+// Project 1 for COSE101
 #include <ctype.h>
 #include <stdbool.h>
 #include <stdint.h>
